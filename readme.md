@@ -1,2 +1,2 @@
 test page <br>
-[foo](about.md)
+[about](about.md)
