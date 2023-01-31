@@ -4,4 +4,4 @@ plugins:
 
 title: Yannic
 description: Yannic Test Page
-show_downloads: true
+show_downloads: false
